@@ -66,3 +66,4 @@ Developed by:Shreeeshanth R RegisterNumber:25012265
 ![exp-11](https://github.com/user-attachments/assets/525cdc06-edfa-4d45-9305-16098ae74556)
 
 **RESULTS**
+Hence a 4 bit synchronous up counter is implemented correctly.
